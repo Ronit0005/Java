@@ -14,6 +14,7 @@ public class IfElseIfClause {
         else{
             System.out.printf("The number %d is equal to zero",num);
         }
+        sc.close();
     }
     
 }
