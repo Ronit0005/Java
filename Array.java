@@ -13,5 +13,6 @@ public class Array {
         for(int a:arr){
             System.out.println(a);// For each loop in java.
         }
+        sc.close();
     }
 }
