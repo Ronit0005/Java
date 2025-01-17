@@ -1,3 +1,4 @@
+// Writing a prg to calculate the percentage of a student in 5 subjects
 package Java;
 import java.util.*;
 public class MiniProjectPercentage {

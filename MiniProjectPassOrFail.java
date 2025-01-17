@@ -1,3 +1,5 @@
+// Writing a prg to know whether a student is pass or fail 
+// The student is pass only when he has scored more than 33 in each subject and has an average of atleast 40
 package Java;
 import java.util.*;
 public class MiniProjectPassOrFail {

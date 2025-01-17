@@ -1,3 +1,4 @@
+// Wap to input a number and printing the resective day of the week
 package Java;
 import java.util.*;
 public class MiniProjectDaysOfWeek {

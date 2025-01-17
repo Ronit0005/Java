@@ -1,3 +1,7 @@
+// Writing a prg to determine the type of website 
+// if the name of website ends with .com then it is a commercial website
+// if the name of website ends with .org then it is a organisational website
+// if the name of website ends with none of the above then it is other website
 package Java;
 import java.util.*;
 public class MiniProjectWeb {

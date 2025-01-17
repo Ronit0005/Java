@@ -1,3 +1,4 @@
+// Printing n natural numbers using do while loop
 package Java;
 import java.util.*;
 public class MiniProjectDoWhileLoop {
@@ -9,5 +10,6 @@ public class MiniProjectDoWhileLoop {
         i++;
         System.out.println(i);
     }while(i<n);
+    sc.close();
     }
 }

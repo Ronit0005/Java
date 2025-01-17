@@ -1,3 +1,4 @@
+// Wap to input a string and replace all the spaces with underscore
 package Java;
 import java.util.Scanner;
 public class MiniProjectConvert {

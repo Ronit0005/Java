@@ -1,3 +1,4 @@
+// Writing a program to check whether the entered value is an integer or not.
 package Java;
 
 import java.util.Scanner;
