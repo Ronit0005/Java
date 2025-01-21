@@ -7,6 +7,7 @@ public class Factorial {
     int n=s.nextInt();
     Factorial obj=new Factorial();
     System.out.println(obj.fact(n));
+    s.close();
     }
     public int fact(int n){
         if(n==1){
