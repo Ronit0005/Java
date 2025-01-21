@@ -6,6 +6,7 @@ public class SumRecursion {
     System.out.println("Enter the value of n");
     int n=sc.nextInt();
     System.out.println(sum(n));
+    sc.close();
    } 
    public static int sum(int a){
     if(a==0){
