@@ -1,5 +1,5 @@
 package Java;
-import java.util.*;
+//import java.util.*;
  class Employee{
     int id,salary;String name;
     public void printDetail(){
