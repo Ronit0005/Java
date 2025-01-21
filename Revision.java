@@ -1,5 +1,5 @@
 package Java;
-import java.util.*;
+//import java.util.*;
 class Revision{
     public static void main(String[] args){
         /*int a=10;int b=20;

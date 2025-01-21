@@ -20,6 +20,7 @@ public class Methods {
     for(int element:num){
         System.out.println(element);
     }
+    sc.close();
     }
     /*
     public void chance(int a,int b){
