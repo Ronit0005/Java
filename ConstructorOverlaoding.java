@@ -16,6 +16,6 @@ public class ConstructorOverlaoding {
     public static void main(String[] args){
         Employee03 x=new Employee03();
         Employee03 y=new Employee03(1025,"Rohit");
-
+// Here we can see that the constructor can also be overlaoded as the same way the methods are overlaoded in java programming.
     }
 }
