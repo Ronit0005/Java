@@ -23,3 +23,4 @@ public class DynamicMethodDispatch {
         ob.calling();
     }
 }
+// We can see that the method of super class can be called but not the method of derived class can be called using the dynamic method dispatch.
